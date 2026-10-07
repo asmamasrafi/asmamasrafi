@@ -7,7 +7,7 @@
 
 I'm drawn to **threat detection**, **security audits** and **security governance**: I enjoy understanding a threat, detecting it, and turning findings into clear actions and useful indicators.
 
-> 🇫🇷 *Étudiante ingénieure en cybersécurité (ENSA Agadir, promotion 2027), à la recherche d'un stage PFE de 6 mois à partir de février 2027.*
+> 🇫🇷 *Étudiante ingénieure en cybersécurité (ENSA Agadir, promotion 2027), à la recherche d'un stage PFE de 6 mois à partir de Janvier 2027.*
 
 ---
 
