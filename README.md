@@ -41,7 +41,7 @@ I'm drawn to **threat detection**, **security audits** and **security governance
 
 ## 🎓 Certifications
 
-Fortinet NSE 1 & NSE 2 · Fortinet Cybersecurity and Cloud Fundamentals · Introduction to Splunk · ISO/IEC 27001 Information Security Associate™ (SkillFront) · Cisco Endpoint Security · Cisco Cyber Threat Management · Cisco Introduction to Cybersecurity
+Fortinet NSE 1 (Fortinet Cybersecurity and Cloud Fundamentals)  & NSE 2 (Introduction to Next Generation Firewall 1.0 )· Introduction to Splunk · ISO/IEC 27001 Information Security Associate™ (SkillFront) · Cisco Endpoint Security · Cisco Cyber Threat Management · Cisco Introduction to Cybersecurity
 
 ## 🏁 CTF
 
