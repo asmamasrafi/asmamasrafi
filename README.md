@@ -3,7 +3,7 @@
 # Hi, I'm Assma 👋
 
 **Cybersecurity engineering student (ENSA Agadir, class of 2027)**
-🔎 I'm looking for a **6-month end-of-studies internship starting February 2027** (Morocco, France or international).
+🔎 I'm looking for a **6-month end-of-studies internship starting january 2027** (Morocco, France or international).
 
 I'm drawn to **threat detection**, **security audits** and **security governance**: I enjoy understanding a threat, detecting it, and turning findings into clear actions and useful indicators.
 
