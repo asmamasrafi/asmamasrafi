@@ -13,11 +13,12 @@ I'm drawn to **threat detection**, **security audits** and **security governance
 
 ## 🛡️ Featured Projects
 
-| Project | What I did |
+| **Project** | **What I did** |
 |---|---|
 | [CyberAudit — Cybersecurity Maturity Assessment](https://github.com/asmamasrafi/cybersecurity-maturity-assessment) | Built a cybersecurity maturity assessment platform for Moroccan SMEs based on the CMRPI/AUSIM framework, with automated scoring, ISO 27001/NIST CSF mapping, security recommendations, PDF reports and auditor workflows |
-| [CyberShield](https://github.com/asmamasrafi/CyberShield-Lambda-Architecture) | Real-time intrusion detection using Kafka, Spark Streaming and Cassandra, with AI-based traffic classification and an alerts dashboard |
-| [SSH Brute-Force Detection with Splunk](https://github.com/asmamasrafi/splunk-soc-bruteforce-detection.git) | Analyzed SSH authentication logs, created SPL detection queries and threshold-based alerts, and built a security monitoring dashboard |
+| [Android Security Audit](https://github.com/asmamasrafi/android-security-audit) | Conducted a practical Android security assessment based on OWASP MASVS, identifying and remediating insecure password storage, sensitive UI exposure, weak password policies and sensitive Logcat leaks |
+| [CyberShield](https://github.com/asmamasrafi/CyberShield-Lambda-Architecture) | Built a real-time intrusion detection pipeline using Kafka, Spark Streaming and Cassandra, with AI-based traffic classification and an alerts dashboard |
+| [SSH Brute-Force Detection with Splunk](https://github.com/asmamasrafi/splunk-soc-bruteforce-detection) | Analyzed SSH authentication logs, created SPL detection queries and threshold-based alerts, and built a security monitoring dashboard |
 | [Blue Team Lab](#) | Detected port scans and SSH brute-force attacks using Snort custom rules and analyzed network traffic with Wireshark |
 | [Linux Hardening](#) | Performed CIS/SCAP security auditing, CVSS risk scoring, remediation planning and integrity monitoring with AIDE |
 | [Crypto Algorithms App](https://github.com/asmamasrafi/crypto-algorithms-app) | Developed a web application for text encryption and decryption using AES and RSA |
