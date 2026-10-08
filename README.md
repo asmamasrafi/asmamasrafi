@@ -19,7 +19,7 @@ I'm drawn to **threat detection**, **security audits** and **security governance
 | [Android Security Audit](https://github.com/asmamasrafi/android-security-audit) | Conducted a practical Android security assessment based on OWASP MASVS, identifying and remediating insecure password storage, sensitive UI exposure, weak password policies and sensitive Logcat leaks |
 | [CyberShield](https://github.com/asmamasrafi/CyberShield-Lambda-Architecture) | Built a real-time intrusion detection pipeline using Kafka, Spark Streaming and Cassandra, with AI-based traffic classification and an alerts dashboard |
 | [SSH Brute-Force Detection with Splunk](https://github.com/asmamasrafi/splunk-soc-bruteforce-detection) | Analyzed SSH authentication logs, created SPL detection queries and threshold-based alerts, and built a security monitoring dashboard |
-| [Blue Team Lab](#) | Detected port scans and SSH brute-force attacks using Snort custom rules and analyzed network traffic with Wireshark |
+| [Blue Team Lab](https://github.com/asmamasrafi/Blue-Team-Lab) | Detected port scans and SSH brute-force attacks using Snort custom rules and analyzed network traffic with Wireshark |
 | [Crypto Algorithms App](https://github.com/asmamasrafi/crypto-algorithms-app) | Developed a web application for text encryption and decryption using AES and RSA |
 
 ---
