@@ -74,6 +74,7 @@ Found and remediated insecure password storage, sensitive UI exposure, weak pass
 ### 🚨 [CyberShield](https://github.com/asmamasrafi/CyberShield-Lambda-Architecture)
 **Real-time intrusion detection**
 
+
 Streaming pipeline with AI-based traffic classification and an alerts dashboard.
 
 ![](https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=white&labelColor=0d1117&color=00FFA3)
@@ -105,21 +106,8 @@ Detected port scans and SSH brute-force attacks with custom Snort rules and anal
 ![](https://img.shields.io/badge/Snort-0d1117?style=flat-square&labelColor=0d1117&color=00FFA3)
 ![](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=white&labelColor=0d1117&color=00D9FF)
 
-</td>
-<td width="50%" valign="top">
-
-### 🔐 [Crypto Algorithms App](https://github.com/asmamasrafi/crypto-algorithms-app)
-**Encryption / decryption web app**
-
-Web application for text encryption and decryption.
-
-![](https://img.shields.io/badge/AES-0d1117?style=flat-square&labelColor=0d1117&color=00FFA3)
-![](https://img.shields.io/badge/RSA-0d1117?style=flat-square&labelColor=0d1117&color=00D9FF)
-![](https://img.shields.io/badge/Web-0d1117?style=flat-square&labelColor=0d1117&color=00D9FF)
 
 </td>
-
-
 <td width="50%" valign="top">
 
 ### 🗝️ [Vault Secrets Management](https://github.com/asmamasrafi/vault-secrets-management)
