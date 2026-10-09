@@ -118,6 +118,20 @@ Web application for text encryption and decryption.
 ![](https://img.shields.io/badge/Web-0d1117?style=flat-square&labelColor=0d1117&color=00D9FF)
 
 </td>
+
+
+<td width="50%" valign="top">
+
+### 🗝️ [Vault Secrets Management](https://github.com/asmamasrafi/vault-secrets-management)
+**Secrets management lab**
+
+Dockerized lab where a Flask app authenticates to HashiCorp Vault with AppRole, reads database credentials from a KV v2 secret under a least-privilege policy, and connects to PostgreSQL.
+
+![](https://img.shields.io/badge/Vault-0d1117?style=flat-square&logo=vault&logoColor=white&labelColor=0d1117&color=00FFA3)
+![](https://img.shields.io/badge/AppRole-0d1117?style=flat-square&labelColor=0d1117&color=00D9FF)
+![](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117&color=00D9FF)
+
+</td>
 </tr>
 </table>
 
