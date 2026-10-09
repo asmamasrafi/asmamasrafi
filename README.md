@@ -6,6 +6,10 @@
 
 <br/>
 
+<img src="assets/profile.jpeg" alt="Assma Masrafi" width="180" />
+
+<br/>
+
 <a href="https://github.com/asmamasrafi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00FFA3&background=00000000&center=true&vCenter=true&width=760&height=50&lines=Detect+%E2%86%92+Analyze+%E2%86%92+Act;Threat+Detection+%7C+Security+Audits+%7C+Governance;Looking+for+a+6-month+PFE+internship+%E2%80%94+Jan+2027" alt="typing" />
 </a>
@@ -14,6 +18,7 @@
 
 <a href="https://www.linkedin.com/in/assma-masrafi"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:asmamasrafi.2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-%20-00FFA3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://pixel-perfect-clone-27157.lovable.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-%20-00FFA3?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/MA%20%7C%20FR%20%7C%20WORLD-%20-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" />
 
