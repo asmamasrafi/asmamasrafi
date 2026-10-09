@@ -12,10 +12,10 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/assma-masrafi"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-<a href="mailto:asmamasrafi.2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00FFA3?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" /></a>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00FFA3?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/LOCATION-MA%20%7C%20FR%20%7C%20WORLD-00D9FF?style=for-the-badge&labelColor=0d1117" />
+<a href="https://www.linkedin.com/in/assma-masrafi"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:asmamasrafi.2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-%20-00FFA3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-%20-00FFA3?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MA%20%7C%20FR%20%7C%20WORLD-%20-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" />
 
 </div>
 
@@ -50,9 +50,9 @@ status:      🟢 available
 
 Platform for Moroccan SMEs based on the CMRPI/AUSIM framework: automated scoring, ISO 27001 / NIST CSF mapping, recommendations, PDF reports and auditor workflows.
 
-![](https://img.shields.io/badge/Governance-0d1117?style=flat-square&labelColor=0d1117&color=00FFA3)
-![](https://img.shields.io/badge/ISO%2027001-0d1117?style=flat-square&labelColor=0d1117&color=00D9FF)
-![](https://img.shields.io/badge/NIST%20CSF-0d1117?style=flat-square&labelColor=0d1117&color=00D9FF)
+![](https://img.shields.io/badge/Governance-%20-00FFA3?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/ISO%2027001-%20-00D9FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/NIST%20CSF-%20-00D9FF?style=flat-square&labelColor=0d1117)
 
 </td>
 <td width="50%" valign="top">
@@ -62,9 +62,9 @@ Platform for Moroccan SMEs based on the CMRPI/AUSIM framework: automated scoring
 
 Found and remediated insecure password storage, sensitive UI exposure, weak password policies and sensitive Logcat leaks.
 
-![](https://img.shields.io/badge/OWASP%20MASVS-0d1117?style=flat-square&labelColor=0d1117&color=00FFA3)
-![](https://img.shields.io/badge/Mobile-0d1117?style=flat-square&labelColor=0d1117&color=00D9FF)
-![](https://img.shields.io/badge/Remediation-0d1117?style=flat-square&labelColor=0d1117&color=00D9FF)
+![](https://img.shields.io/badge/OWASP%20MASVS-%20-00FFA3?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Mobile-%20-00D9FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Remediation-%20-00D9FF?style=flat-square&labelColor=0d1117)
 
 </td>
 </tr>
@@ -74,12 +74,11 @@ Found and remediated insecure password storage, sensitive UI exposure, weak pass
 ### 🚨 [CyberShield](https://github.com/asmamasrafi/CyberShield-Lambda-Architecture)
 **Real-time intrusion detection**
 
-
 Streaming pipeline with AI-based traffic classification and an alerts dashboard.
 
-![](https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=white&labelColor=0d1117&color=00FFA3)
-![](https://img.shields.io/badge/Spark%20Streaming-0d1117?style=flat-square&logo=apachespark&logoColor=white&labelColor=0d1117&color=00D9FF)
-![](https://img.shields.io/badge/Cassandra-0d1117?style=flat-square&logo=apachecassandra&logoColor=white&labelColor=0d1117&color=00D9FF)
+![](https://img.shields.io/badge/Kafka-%20-00FFA3?style=flat-square&logo=apachekafka&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/Spark%20Streaming-%20-00D9FF?style=flat-square&logo=apachespark&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/Cassandra-%20-00D9FF?style=flat-square&logo=apachecassandra&logoColor=white&labelColor=0d1117)
 
 </td>
 <td width="50%" valign="top">
@@ -89,9 +88,9 @@ Streaming pipeline with AI-based traffic classification and an alerts dashboard.
 
 Analyzed SSH auth logs, wrote SPL detection queries and threshold-based alerts, and built a monitoring dashboard.
 
-![](https://img.shields.io/badge/Splunk-0d1117?style=flat-square&logo=splunk&logoColor=white&labelColor=0d1117&color=00FFA3)
-![](https://img.shields.io/badge/SPL-0d1117?style=flat-square&labelColor=0d1117&color=00D9FF)
-![](https://img.shields.io/badge/SOC-0d1117?style=flat-square&labelColor=0d1117&color=00D9FF)
+![](https://img.shields.io/badge/Splunk-%20-00FFA3?style=flat-square&logo=splunk&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/SPL-%20-00D9FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/SOC-%20-00D9FF?style=flat-square&labelColor=0d1117)
 
 </td>
 </tr>
@@ -103,9 +102,8 @@ Analyzed SSH auth logs, wrote SPL detection queries and threshold-based alerts, 
 
 Detected port scans and SSH brute-force attacks with custom Snort rules and analyzed traffic with Wireshark.
 
-![](https://img.shields.io/badge/Snort-0d1117?style=flat-square&labelColor=0d1117&color=00FFA3)
-![](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=white&labelColor=0d1117&color=00D9FF)
-
+![](https://img.shields.io/badge/Snort-%20-00FFA3?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Wireshark-%20-00D9FF?style=flat-square&logo=wireshark&logoColor=white&labelColor=0d1117)
 
 </td>
 <td width="50%" valign="top">
@@ -115,9 +113,9 @@ Detected port scans and SSH brute-force attacks with custom Snort rules and anal
 
 Dockerized lab where a Flask app authenticates to HashiCorp Vault with AppRole, reads database credentials from a KV v2 secret under a least-privilege policy, and connects to PostgreSQL.
 
-![](https://img.shields.io/badge/Vault-0d1117?style=flat-square&logo=vault&logoColor=white&labelColor=0d1117&color=00FFA3)
-![](https://img.shields.io/badge/AppRole-0d1117?style=flat-square&labelColor=0d1117&color=00D9FF)
-![](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117&color=00D9FF)
+![](https://img.shields.io/badge/Vault-%20-00FFA3?style=flat-square&logo=vault&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/AppRole-%20-00D9FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Docker-%20-00D9FF?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
 
 </td>
 </tr>
@@ -153,11 +151,11 @@ Dockerized lab where a Flask app authenticates to HashiCorp Vault with AppRole, 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/▶%20SOC%20%26%20SIEM%20Operations-0d1117?style=for-the-badge&labelColor=0d1117&color=00FFA3" />
-<img src="https://img.shields.io/badge/▶%20Governance%20%26%20Risk-0d1117?style=for-the-badge&labelColor=0d1117&color=00D9FF" />
-<img src="https://img.shields.io/badge/▶%20Security%20Automation-0d1117?style=for-the-badge&labelColor=0d1117&color=00FFA3" />
-<img src="https://img.shields.io/badge/▶%20HashiCorp%20Vault-0d1117?style=for-the-badge&logo=vault&logoColor=FFEC6E&labelColor=0d1117&color=00D9FF" />
-<img src="https://img.shields.io/badge/▶%20AI%20for%20Cybersecurity-0d1117?style=for-the-badge&labelColor=0d1117&color=00FFA3" />
+<img src="https://img.shields.io/badge/%E2%96%B6%20SOC%20%26%20SIEM%20Operations-%20-00FFA3?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%E2%96%B6%20Governance%20%26%20Risk-%20-00D9FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%E2%96%B6%20Security%20Automation-%20-00FFA3?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%E2%96%B6%20HashiCorp%20Vault-%20-00D9FF?style=for-the-badge&logo=vault&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%E2%96%B6%20AI%20for%20Cybersecurity-%20-00FFA3?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -210,8 +208,8 @@ Dockerized lab where a Flask app authenticates to HashiCorp Vault with AppRole, 
 
 **Open to cybersecurity internship opportunities for 2027.**
 
-<a href="https://www.linkedin.com/in/assma-masrafi"><img src="https://img.shields.io/badge/LinkedIn-Assma%20Masrafi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-<a href="mailto:asmamasrafi.2004@gmail.com"><img src="https://img.shields.io/badge/asmamasrafi.2004%40gmail.com-00FFA3?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/assma-masrafi"><img src="https://img.shields.io/badge/LinkedIn-Assma%20Masrafi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:asmamasrafi.2004@gmail.com"><img src="https://img.shields.io/badge/asmamasrafi.2004%40gmail.com-%20-00FFA3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:06251f&height=110&section=footer" width="100%" />
 
