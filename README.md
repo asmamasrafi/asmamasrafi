@@ -1,56 +1,248 @@
-<!-- Copy into a PUBLIC repository named exactly: asmamasrafi  (file README.md) -->
+ <!-- Cybersecurity-themed GitHub Profile README -->
 
-# Hi, I'm Assma 👋
+<div align="center">
 
-**Cybersecurity engineering student (ENSA Agadir, class of 2027)**
-🔎 I'm looking for a **6-month end-of-studies internship starting january 2027** (Morocco, France or international).
+# 👩🏻‍💻 Assma MASRAFI
 
-I'm drawn to **threat detection**, **security audits** and **security governance**: I enjoy understanding a threat, detecting it, and turning findings into clear actions and useful indicators.
+### Cybersecurity Engineering Student | SOC • Blue Team • GRC
 
-> 🇫🇷 *Étudiante ingénieure en cybersécurité (ENSA Agadir, promotion 2027), à la recherche d'un stage PFE de 6 mois à partir de Janvier 2027.*
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7A5&center=true&vCenter=true&width=650&lines=Threat+Detection+%26+Security+Monitoring;Cybersecurity+Audit+%26+Risk+Management;Security+Automation+%26+Secrets+Management;Building%2C+Testing%2C+Learning+%26+Securing" alt="Typing SVG" />
+</p>
+
+<a href="https://www.linkedin.com/in/assma-masrafi">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:asmamasrafi.2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/asmamasrafi">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ENSA-Agadir-00C896?style=flat-square" alt="ENSA Agadir" />
+<img src="https://img.shields.io/badge/Class%20of-2027-007ACC?style=flat-square" alt="Class of 2027" />
+<img src="https://img.shields.io/badge/Seeking-PFE%20Internship-FFB000?style=flat-square" alt="PFE Internship" />
+
+</div>
 
 ---
 
-## 🛡️ Featured Projects
+## 👋 About Me
 
-| **Project** | **What I did** |
-|---|---|
-| [CyberAudit — Cybersecurity Maturity Assessment](https://github.com/asmamasrafi/cybersecurity-maturity-assessment) | Built a cybersecurity maturity assessment platform for Moroccan SMEs based on the CMRPI/AUSIM framework, with automated scoring, ISO 27001/NIST CSF mapping, security recommendations, PDF reports and auditor workflows |
-| [Android Security Audit](https://github.com/asmamasrafi/android-security-audit) | Conducted a practical Android security assessment based on OWASP MASVS, identifying and remediating insecure password storage, sensitive UI exposure, weak password policies and sensitive Logcat leaks |
-| [CyberShield](https://github.com/asmamasrafi/CyberShield-Lambda-Architecture) | Built a real-time intrusion detection pipeline using Kafka, Spark Streaming and Cassandra, with AI-based traffic classification and an alerts dashboard |
-| [SSH Brute-Force Detection with Splunk](https://github.com/asmamasrafi/splunk-soc-bruteforce-detection) | Analyzed SSH authentication logs, created SPL detection queries and threshold-based alerts, and built a security monitoring dashboard |
-| [Blue Team Lab](https://github.com/asmamasrafi/Blue-Team-Lab) | Detected port scans and SSH brute-force attacks using Snort custom rules and analyzed network traffic with Wireshark |
-| [Crypto Algorithms App](https://github.com/asmamasrafi/crypto-algorithms-app) | Developed a web application for text encryption and decryption using AES and RSA |
+I'm a **cybersecurity engineering student at ENSA Agadir, Morocco**, interested in understanding threats, detecting suspicious activity, assessing security risks, and improving the security of information systems.
+
+I enjoy combining hands-on technical investigations with structured security assessments and actionable recommendations.
+
+* 🔎 **Threat Detection:** SIEM, log analysis, intrusion detection and incident investigation.
+* 🛡️ **Blue Team:** Security monitoring, network traffic analysis and detection rules.
+* 📋 **Cybersecurity Governance:** Security maturity assessments, ISO/IEC 27001 and risk management.
+* ⚙️ **Security Engineering:** Python, security automation, Docker and secrets management.
+
+🎯 **Currently seeking a 6-month end-of-studies internship (PFE) starting January 2027**, in Morocco, France or internationally.
+
+<details>
+<summary>🇫🇷 Lire en français</summary>
+
+Étudiante ingénieure en cybersécurité à l'ENSA Agadir, je m'intéresse à la détection des menaces, à l'audit de sécurité, à la gouvernance et à l'amélioration continue de la sécurité des systèmes d'information.
+
+Je recherche un stage PFE de six mois à partir de janvier 2027, au Maroc, en France ou à l'international.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 Splunk SOC Lab
+
+**SSH Brute-Force Detection & Investigation**
+
+Investigated authentication logs, developed SPL detection queries, configured threshold-based alerts and built a security monitoring dashboard.
+
+`Splunk` `SPL` `SOC` `Log Analysis`
+
+[↗ Explore Repository](https://github.com/asmamasrafi/splunk-soc-bruteforce-detection)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ CyberAudit
+
+**Cybersecurity Maturity Assessment**
+
+Developed a platform for assessing SME cybersecurity maturity using the CMRPI/AUSIM framework, with automated scoring, security recommendations and ISO 27001/NIST CSF mapping.
+
+`GRC` `ISO 27001` `NIST CSF` `Risk Assessment`
+
+[↗ Explore Repository](https://github.com/asmamasrafi/cybersecurity-maturity-assessment)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Android Security Audit
+
+**Mobile Application Security**
+
+Assessed Android application security against OWASP MASVS, addressing insecure password storage, sensitive UI exposure, weak password policies and sensitive Logcat output.
+
+`Android` `Kotlin` `OWASP MASVS`
+
+[↗ Explore Repository](https://github.com/asmamasrafi/android-security-audit)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ CyberShield
+
+**Real-Time Intrusion Detection Pipeline**
+
+Built a streaming pipeline for network traffic analysis and AI-based traffic classification, with alert processing and a monitoring dashboard.
+
+`Kafka` `Spark Streaming` `Cassandra` `AI`
+
+[↗ Explore Repository](https://github.com/asmamasrafi/CyberShield-Lambda-Architecture)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Blue Team Lab
+
+**Network Threat Detection**
+
+Simulated controlled security scenarios and investigated suspicious traffic, including port scans and SSH authentication attempts, using Snort rules and Wireshark.
+
+`Snort` `Wireshark` `Kali Linux` `Blue Team`
+
+[↗ Explore Repository](https://github.com/asmamasrafi/Blue-Team-Lab)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Crypto Algorithms App
+
+**Encryption & Decryption**
+
+Developed a web application demonstrating text encryption and decryption with AES and RSA cryptographic algorithms.
+
+`Python` `Flask` `AES` `RSA`
+
+[↗ Explore Repository](https://github.com/asmamasrafi/crypto-algorithms-app)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Technical Toolbox
+
+<div align="center">
+
+### 🔎 Detection & Monitoring
+
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+<img src="https://img.shields.io/badge/Snort-EA1D2C?style=for-the-badge&logo=suricata&logoColor=white" alt="Snort" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
+### 📋 Governance, Risk & Compliance
+
+<img src="https://img.shields.io/badge/ISO%2FIEC%2027001-005A9C?style=for-the-badge" alt="ISO 27001" />
+<img src="https://img.shields.io/badge/NIST%20CSF-356854?style=for-the-badge" alt="NIST CSF" />
+<img src="https://img.shields.io/badge/CVSS-Risk%20Assessment-6C63FF?style=for-the-badge" alt="CVSS" />
+
+### 🧪 Security Testing
+
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" alt="Nmap" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+
+### ⚙️ Development & Infrastructure
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-- SOC & SIEM Operations
-- Cybersecurity Governance & Risk
-- Security Automation
-- HashiCorp Vault & Secrets Management
-- AI applied to Cybersecurity
+<div align="center">
 
-## 🧰 Skills
+| Area                   | Focus                                                       |
+| :--------------------- | :---------------------------------------------------------- |
+| 🔍 SOC Operations      | SIEM investigations, detection engineering and alert triage |
+| 📋 Cyber GRC           | ISO 27001, cybersecurity risk and maturity assessment       |
+| 🔐 Secrets Management  | HashiCorp Vault, dynamic secrets and access policies        |
+| 🤖 AI & Cybersecurity  | Machine learning applications for threat detection          |
+| ⚙️ Security Automation | Python, Docker and security workflows                       |
 
-- **Detection & SOC:** Splunk, Snort, AIDE, Wireshark, Indicators of Compromise (IoC)
-- **Governance & Compliance:** ISO/IEC 27001, maturity assessment, CIS/SCAP, CVSS, remediation plans
-- **Security Testing:** Kali Linux, Nmap, Burp Suite, OWASP
-- **Development & Automation:** Python, Bash, Git, Docker, PostgreSQL
-
-## 🎓 Certifications
-
-Fortinet NSE 1 (Fortinet Cybersecurity and Cloud Fundamentals)  & NSE 2 (Introduction to Next Generation Firewall 1.0 )· Introduction to Splunk · ISO/IEC 27001 Information Security Associate™ (SkillFront) · Cisco Endpoint Security · Cisco Cyber Threat Management · Cisco Introduction to Cybersecurity
-
-## 🏁 CTF
-
-Hack The Box Morocco (Summer CTF Cup) · NullOrigin CTF 2026 · CTF Info Days ENSA Agadir
+</div>
 
 ---
 
-## 📫 Contact
+## 🎓 Certifications & Learning
 
-[LinkedIn](https://www.linkedin.com/in/assma-masrafi) · asmamasrafi.2004@gmail.com
+* 🏅 ISO/IEC 27001 Information Security Associate™ — SkillFront
+* 📊 Introduction to Splunk
+* 🔥 Fortinet Cybersecurity and Cloud Fundamentals
 
-📧 Open to cybersecurity internship opportunities for 2027.
+---
+
+## 🏁 CTF & Cybersecurity Challenges
+
+* 🧩 Hack The Box Morocco — Summer CTF Cup
+* 🧩 NullOrigin CTF 2026
+* 🧩 CTF Info Days — ENSA Agadir
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=asmamasrafi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmamasrafi&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=asmamasrafi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Interested in cybersecurity, threat detection, security audits or collaboration?**
+
+<a href="https://www.linkedin.com/in/assma-masrafi">
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="mailto:asmamasrafi.2004@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+</a>
+
+📍 Agadir, Morocco · 🌍 Open to international opportunities
+
+<sub>Building skills. Investigating threats. Making systems more secure. 🔐</sub>
+
+</div>
