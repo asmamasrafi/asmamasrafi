@@ -6,7 +6,6 @@
 
 <br/>
 
-<img src="assets/profile.jpeg" alt="Assma Masrafi" width="180" />
 
 <br/>
 
