@@ -17,7 +17,7 @@
 
 <a href="https://www.linkedin.com/in/assma-masrafi"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:asmamasrafi.2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-%20-00FFA3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://pixel-perfect-clone-27157.lovable.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://mycybersecurity-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-%20-00FFA3?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/MA%20%7C%20FR%20%7C%20WORLD-%20-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" />
 
